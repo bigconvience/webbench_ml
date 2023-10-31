@@ -1,0 +1,4 @@
+(executable
+ (public_name webbench)
+ (name main)
+ (libraries webbench_ml unix))
